@@ -1,7 +1,7 @@
 [submodule "modules"]
- path = modules
- url = https://github.com/Bee-Den-Group/zephyr-modules
+    path = modules
+    url = https://github.com/Bee-Den-Group/zephyr-modules
 
 [submodule "boards"]
-path = boards
-url = https://github.com/Bee-Den-Group/zephyr-boards
+    path = boards
+    url = https://github.com/Bee-Den-Group/zephyr-boards
